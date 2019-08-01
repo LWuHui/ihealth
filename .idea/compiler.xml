@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pay-api" />
+        <module name="pay-bo" />
+        <module name="pay-busine" />
+        <module name="pay-client" />
+        <module name="pay-comm" />
+        <module name="pay-dto" />
+        <module name="pay-entity" />
+        <module name="pay-mapper" />
+        <module name="pay-rest" />
+        <module name="pay-service" />
+        <module name="pay-vo" />
+        <module name="umps-rest" />
+        <module name="upms-api" />
+        <module name="upms-bo" />
+        <module name="upms-busine" />
+        <module name="upms-client" />
+        <module name="upms-comm" />
+        <module name="upms-dto" />
+        <module name="upms-entity" />
+        <module name="upms-mapper" />
+        <module name="upms-service" />
+        <module name="upms-vo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>

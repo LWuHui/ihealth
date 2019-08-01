@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-bo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-busine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-comm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-pay/pay-vo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/umps-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-bo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-busine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-comm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ihealth-upms/upms-vo" charset="UTF-8" />
+  </component>
+</project>
