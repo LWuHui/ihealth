@@ -28,7 +28,7 @@
         <druid.version>1.1.10</druid.version>
         <commons-lang.version>3.9</commons-lang.version>
         <commons-collections.version>4.3</commons-collections.version>
-        <hutool-version>4.6.0</hutool-version>
+        <hutool-version>5.8.19</hutool-version>
     </properties>
 
 
